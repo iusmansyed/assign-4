@@ -1,0 +1,78 @@
+// ***********  ch# 9-11 **********
+
+
+
+
+
+// ***** question number 1 *******
+
+// var city = prompt ("enter your city name")
+
+// if (city==="karachi")
+// {alert("welcome to the city of lights")}
+// else{};
+
+
+
+
+
+// ***** question number 2 *******
+// var gender = prompt("please enter your gender")
+// if (gender==="male")
+// {
+// alert("hello sir")
+// } else if (gender==="female")
+// {
+//     alert("hello ma'am ")
+// };
+
+
+
+
+
+// ***** question number 3 *******
+
+// var signal= prompt ("enter the color of light")
+
+// if (signal==="green") 
+// {
+//     alert("move now")
+// }
+
+// else if (signal==="yellow") 
+// {
+//     alert("ready to move")
+// }
+
+// else if (signal==="red") 
+// {
+//     alert("stop ")
+// }
+
+
+
+
+
+// ***** question number 4 *******
+
+
+
+// var petrol = +prompt ("check your petrol")
+// if(petrol < 0.25){
+//     alert("please refil your tank")
+// } ;
+
+
+// ***** question number 5 *******
+
+
+// var a=4;
+// if (++a === 5){
+// alert("given condition for variable a is true");
+// };
+
+
+// ========== chap# 9-11 complete==========
+
+
+
